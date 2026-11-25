@@ -1,1 +1,0 @@
-# opism-lb2-shevchenko
